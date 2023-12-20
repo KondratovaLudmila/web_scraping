@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+import_mongo/
+
 # Distribution / packaging
 .Python
 build/
